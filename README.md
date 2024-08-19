@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## 🔭 About Me
+## 🧑‍💻 About Me
 
 My name is Amal, I am an iOS developer. I am an active developer with 2 years of development experience.
 [CV](https://clck.ru/3CAqmt)
